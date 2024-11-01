@@ -1,0 +1,20 @@
+/* Basic styling for the landing page */
+.landing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  .landing-container h1 {
+    font-size: 48px;
+    color: #333;
+  }
+  
+  .landing-container p {
+    font-size: 24px;
+    color: #555;
+  }  
